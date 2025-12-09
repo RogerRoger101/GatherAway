@@ -1,4 +1,4 @@
-# GatherAway
+# GatherAway v1.2.5
 ## Features
 
 Hit the "X" on trees, Always hit the "shinny-spot" on the Ore Nodes (minigames).  
